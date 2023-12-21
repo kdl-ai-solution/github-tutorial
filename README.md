@@ -29,5 +29,7 @@
 - 본인의 `Origin Remote Repository`에서 Pull Request
 ![Alt text](img/howtopr.png)를 요청합니다.
 - 이 때, *origin의 브랜치와 upstream의 브랜치가 같아야한다는 것 알아주세요.*
+![Alt text](img/pr_need_same_branch.png)
 - Pull Request한 변경 사항이 Upstream에 반영되었을 때, 오류가 발생해서는 안 되겠죠? 이를 방지하기 위해, 테스트와 코드 리뷰로 미연의 오류를 방지해야합니다. 이 테스트와 코드 리뷰 부분은 차차 정해나가면 좋을 것 같습니다.
-
+- Pull Request에는 PR이 어떤 내용인지에 대해 적을 수 있습니다. 꼭 필요한 내용이 들어갈 수 있도록 `PR 템플릿`도 정해나가면 좋을 것 같습니다.
+![Alt text](img/howtowrite_pr_template.png)
