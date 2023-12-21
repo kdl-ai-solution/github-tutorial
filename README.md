@@ -9,6 +9,7 @@
 
 
 
+
 ## 전체 워크 플로우
 ![](img/git_fork.png)
 
@@ -35,3 +36,9 @@
 ![Alt text](img/howtowrite_pr_template.png)
 
 ## PR 요청을 위한 테스트와 코드 리뷰가 통과되었다면, 이제 작성하신 변경사항이 Upstream에 반영되었을 겁니다. 축하합니다!
+
+
+### Tutorial 진행하기
+1. 이슈 작성 (암거나) (이슈 관련link : https://codesyun.tistory.com/322)
+2. 이슈에 맞춰 브랜치 생성
+3. Fork하여 작업후, PR 날리기
